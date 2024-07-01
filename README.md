@@ -48,9 +48,14 @@ The handbook is organized into the following sections:
 - **`data/`**: Sample datasets used in the book.
 - **`figures/`**: Figures and images used in the book.
 
-## 👨‍🏫 Author
+## 🗓️ Class and Lab Schedule
 
-**Jake VanderPlas** is a well-known author and data scientist, with a focus on making complex topics in data science accessible through clear explanations and practical examples.
+- **Class Sessions**:
+  - **Tuesday**: 9:30 AM - 10:30 AM
+  - **Thursday**: 11:00 AM - 1:00 PM
+
+- **Lab Sessions**:
+  - **Monday**: 2:00 PM - 4:00 PM
 
 
 ## 🌐 Related Resources
