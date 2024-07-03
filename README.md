@@ -1,6 +1,5 @@
 # Data Science - MDSCCS202
 
-![Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/figures/PythonDataScience_cover.png)
 
 Welcome to the **Data Science MDSCCS202**! This repository provides a comprehensive resource for learning data science using Python. Whether you are a beginner or an experienced practitioner, this handbook covers essential topics and tools to equip you with the skills needed for data analysis and machine learning.
 
@@ -16,15 +15,6 @@ You can find the complete content of the book available online for free. Explore
 - **Seaborn**: Statistical data visualization.
 - **Scikit-learn**: Machine learning algorithms.
 
-## 📚 Contents
-
-The handbook is organized into the following sections:
-
-1. **[IPython: Beyond Normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-IPython-Beyond-Normal-Python.html)**: Advanced features of IPython and Jupyter.
-2. **[Introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-Introduction-to-NumPy.html)**: Arrays, computation, and more.
-3. **[Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-Introduction-to-Pandas.html)**: Data frames, series, and data manipulation.
-4. **[Visualization with Matplotlib](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-Introduction-to-Matplotlib.html)**: Plotting and visualizing data.
-5. **[Machine Learning](https://jakevdp.github.io/PythonDataScienceHandbook/05.00-Machine-Learning.html)**: Introduction to machine learning with scikit-learn.
 
 ## 📝 How to Use This Resource
 
