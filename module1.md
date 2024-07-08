@@ -31,11 +31,13 @@ By the end of this module, you will be able to:
 **Colab Notebook**: [Aggregations: min, max, and Everything in Between](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.04-Computation-on-arrays-aggregates.ipynb
 )
 
-### Topic 4: Computation on Arrays: Broadcasting
+### Topic 5: Computation on Arrays: Broadcasting
 
-**Colab Notebook**: [Aggregations: min, max, and Everything in Between](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.05-Computation-on-arrays-broadcasting.ipynb)
+**Colab Notebook**: [Computation on Arrays: Broadcasting](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.05-Computation-on-arrays-broadcasting.ipynb)
 
+### Topic 6: Comparisons, Masks, and Boolean Logic
 
+**Colab Notebook**: [Comparisons, Masks, and Boolean Logic](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.06-Boolean-Arrays-and-Masks.ipynb)
 
 
 
