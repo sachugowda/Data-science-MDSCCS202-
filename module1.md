@@ -22,5 +22,10 @@ By the end of this module, you will be able to:
 
 **Colab Notebook**: [The Basics of NumPy Arrays](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.02-The-Basics-Of-NumPy-Arrays.ipynb)
 
+### Topic 3: Computation on NumPy Arrays: Universal Functions
+
+**Colab Notebook**: [Computation on NumPy Arrays: Universal Functions](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.03-Computation-on-arrays-ufuncs.ipynb#:~:text=Computation%20on%20NumPy%20arrays%20can,NumPy's%20universal%20functions%20(ufuncs).)
+
+
 
 
