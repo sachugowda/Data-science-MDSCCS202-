@@ -31,6 +31,10 @@ By the end of this module, you will be able to:
 **Colab Notebook**: [Aggregations: min, max, and Everything in Between](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.04-Computation-on-arrays-aggregates.ipynb
 )
 
+### Topic 4: Computation on Arrays: Broadcasting
+
+**Colab Notebook**: [Aggregations: min, max, and Everything in Between](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.05-Computation-on-arrays-broadcasting.ipynb)
+
 
 
 
