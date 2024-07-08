@@ -26,6 +26,12 @@ By the end of this module, you will be able to:
 
 **Colab Notebook**: [Computation on NumPy Arrays: Universal Functions](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.03-Computation-on-arrays-ufuncs.ipynb#:~:text=Computation%20on%20NumPy%20arrays%20can,NumPy's%20universal%20functions%20(ufuncs).)
 
+### Topic 4: Aggregations: min, max, and Everything in Between
+
+**Colab Notebook**: [Aggregations: min, max, and Everything in Between](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.04-Computation-on-arrays-aggregates.ipynb
+)
+
+
 
 
 
