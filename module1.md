@@ -35,6 +35,8 @@ By the end of this module, you will be able to:
 
 **Colab Notebook**: [Computation on Arrays: Broadcasting](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.05-Computation-on-arrays-broadcasting.ipynb)
 
+**Video**: [Tutorial](https://www.youtube.com/watch?app=desktop&v=oG1t3qlzq14)
+
 ### Topic 6: Comparisons, Masks, and Boolean Logic
 
 **Colab Notebook**: [Comparisons, Masks, and Boolean Logic](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.06-Boolean-Arrays-and-Masks.ipynb)
