@@ -44,6 +44,10 @@ By the end of this module, you will be able to:
 ### Topic 7: Fancy Indexing
 **Colab Notebook**: [Fancy Indexing](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.07-Fancy-Indexing.ipynb)
 
+### Topic 8: Sorting
+**Colab Notebook**: [Sorting](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.08-Sorting.ipynb)
 
+### Topic 9: Structured Data: NumPy's Structured Arrays
+**Colab Notebook**: [Structured Data with NumPy](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.09-Structured-Data-NumPy.ipynb)
 
 
