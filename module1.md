@@ -41,5 +41,9 @@ By the end of this module, you will be able to:
 
 **Colab Notebook**: [Comparisons, Masks, and Boolean Logic](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.06-Boolean-Arrays-and-Masks.ipynb)
 
+### Topic 7: Fancy Indexing
+**Colab Notebook**: [Fancy Indexing](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.07-Fancy-Indexing.ipynb)
+
+
 
 
