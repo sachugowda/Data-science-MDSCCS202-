@@ -50,4 +50,6 @@ By the end of this module, you will be able to:
 ### Topic 9: Structured Data: NumPy's Structured Arrays
 **Colab Notebook**: [Structured Data with NumPy](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.09-Structured-Data-NumPy.ipynb)
 
-
+## Practice Handson Problems 
+**100 Numpy Problems** [Numpy Hands-on](https://colab.research.google.com/drive/1PQ96utLL1Ytb9y0F9Qy0ZQz-PpDMx7mb?usp=sharing) <br>
+**Solutions**: Update soon
