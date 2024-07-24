@@ -15,3 +15,8 @@ By the end of this module, you will be able to:
 
 ### Topic 1: Introduction to Pandas Objects
 - **Colab Notebook**: [Introduction to Pandas Objects](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.01-Introducing-Pandas-Objects.ipynb)
+
+### Topic 2: Data Indexing and Selection
+- **Colab Notebook**: [Data Indexing and Selection](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.02-Data-Indexing-and-Selection.ipynb)
+
+
