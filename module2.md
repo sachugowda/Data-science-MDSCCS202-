@@ -22,5 +22,8 @@ By the end of this module, you will be able to:
 ### Topic 3: Operating on Data in Pandas
 - **Colab Notebook**: [Operating on Data in Pandas](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.03-Operations-in-Pandas.ipynb)
 
+### Topic 4: Handling Missing Data
+- **Colab Notebook**: [Handling Missing Data](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.04-Missing-Values.ipynb)
+
 
 
