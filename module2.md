@@ -19,4 +19,8 @@ By the end of this module, you will be able to:
 ### Topic 2: Data Indexing and Selection
 - **Colab Notebook**: [Data Indexing and Selection](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.02-Data-Indexing-and-Selection.ipynb)
 
+### Topic 3: Operating on Data in Pandas
+- **Colab Notebook**: [Operating on Data in Pandas](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.03-Operations-in-Pandas.ipynb)
+
+
 
