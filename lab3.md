@@ -34,7 +34,7 @@ births = births[births['day'] <= 31]
 births['day'].fillna(1, inplace=True)
 
 # Convert 'year', 'month', and 'day' to datetime format
-births['date'] = pd.to_datetime(births[['year', 'month', 'day']])
+births['date'] = pd.to_datetime(births[['year', 'month', 'day']], errors='coerce')
 ```
 
 ### Step 4: Total Number of US Births by Year and Gender
@@ -90,6 +90,8 @@ plt.xlabel('Date')
 plt.ylabel('Average Births')
 plt.show()
 ```
+### Complete Solution in Colab
+https://colab.research.google.com/drive/1SlLMx-I8Hx7DdObMLQx4nhgk1fyijweX?usp=sharing
 
 ### Conclusion
 By following the steps outlined in this tutorial, we have successfully performed various data operations on the `births.csv` dataset, including calculating the total number of births by year and gender, the average daily births by day of the week and decade, and the average daily births by date. We also visualized the results using Matplotlib. This tutorial should serve as a comprehensive guide to help you manipulate and analyze your dataset effectively.
