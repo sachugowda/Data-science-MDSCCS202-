@@ -25,5 +25,8 @@ By the end of this module, you will be able to:
 ### Topic 4: Handling Missing Data
 - **Colab Notebook**: [Handling Missing Data](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.04-Missing-Values.ipynb)
 
+### Topic 5: Hierarchical Indexing
+- **Colab Notebook**: [Hierarchical Indexing](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.05-Hierarchical-Indexing.ipynb)
+
 
 
