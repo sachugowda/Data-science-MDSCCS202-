@@ -32,4 +32,7 @@ By the end of this module, you will be able to:
 ### Topic 6: Combining Datasets: concat and append
 - **Colab Notebook**: [Combining Datasets](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.06-Concat-And-Append.ipynb)
 
+### Topic 7: Aggregation and Grouping
+- **Colab Notebook**: [Aggregation and Grouping](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.08-Aggregation-and-Grouping.ipynb)
+
 
