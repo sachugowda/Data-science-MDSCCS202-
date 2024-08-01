@@ -35,4 +35,10 @@ By the end of this module, you will be able to:
 ### Topic 7: Aggregation and Grouping
 - **Colab Notebook**: [Aggregation and Grouping](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.08-Aggregation-and-Grouping.ipynb)
 
+### Topic 8: Pivot Tables
+- **Colab Notebook**: [Pivot Tables](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.09-Pivot-Tables.ipynb)
+
+### Topic 8: Working with Time Series
+- **Colab Notebook**: [Working with Time Series](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.11-Working-with-Time-Series.ipynb)
+
 
