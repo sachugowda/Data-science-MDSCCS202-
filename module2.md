@@ -48,3 +48,9 @@ This is a collection of 100 pandas problems designed to help you improve your da
 You can access the problems and solve them directly in Google Colab by clicking the link below:
 
 [100 Pandas Problems](https://colab.research.google.com/drive/17BnosaKn77FFm3eB6T2ZULii-xG5vyPM?usp=sharing)
+
+## Additional Pandas Resources
+
+For a more comprehensive understanding of pandas, including tutorials and detailed explanations, you can explore the following resource:
+
+- [Pandas Tutorials on GitHub](https://github.com/plembo/pandas-tutorials/tree/master?tab=readme-ov-file): This repository contains a wide range of tutorials that cover various aspects of pandas, from basic operations to more advanced techniques. It's a great resource for anyone looking to deepen their knowledge of pandas and enhance their data analysis skills.
