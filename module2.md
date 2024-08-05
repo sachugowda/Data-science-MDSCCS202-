@@ -40,6 +40,7 @@ By the end of this module, you will be able to:
 
 ### Topic 8: Working with Time Series
 - **Colab Notebook**: [Working with Time Series](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.11-Working-with-Time-Series.ipynb)
+- - **Colab Notebook**: [Time Series Excersise](https://colab.research.google.com/drive/1yPvGHvr7VXCUmVmZj-sSIhvg-1CVdQkO?usp=sharing)
 
 ## Practice Hands-on Session
 
