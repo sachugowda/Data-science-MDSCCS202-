@@ -41,4 +41,10 @@ By the end of this module, you will be able to:
 ### Topic 8: Working with Time Series
 - **Colab Notebook**: [Working with Time Series](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.11-Working-with-Time-Series.ipynb)
 
+## Practice Hands-on Session
 
+This is a collection of 100 pandas problems designed to help you improve your data manipulation skills using the pandas library in Python. The problems cover a wide range of topics including data cleaning, data transformation, grouping and aggregation, and more.
+
+You can access the problems and solve them directly in Google Colab by clicking the link below:
+
+[100 Pandas Problems](https://colab.research.google.com/drive/17BnosaKn77FFm3eB6T2ZULii-xG5vyPM?usp=sharing)
