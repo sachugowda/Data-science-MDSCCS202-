@@ -17,6 +17,21 @@ By the end of this module, you will be able to:
 
 ### Topic 1: Simple Line Graph
 
-In this topic, we will start with the basics of creating simple line graphs using Matplotlib. Line graphs are useful for visualizing trends over time or continuous data.
-
 **Colab Notebook**: [Simple Line Graph](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.01-Simple-Line-Plots.ipynb)
+
+### Topic 2: Simple Scatter Plots
+
+**Colab Notebook**: [Simple Scatter Graph](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.02-Simple-Scatter-Plots.ipynb)
+
+### Topic 3: Visualizing Uncertainties
+
+**Colab Notebook**: [Visualizing Uncertainties](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.03-Errorbars.ipynb
+)
+
+### Topic 4: Density and Contour Plots
+
+**Colab Notebook**: [Density and Contour Plots](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.04-Density-and-Contour-Plots.ipynb)
+
+
+
+
