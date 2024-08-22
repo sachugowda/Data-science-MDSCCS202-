@@ -33,5 +33,17 @@ By the end of this module, you will be able to:
 **Colab Notebook**: [Density and Contour Plots](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.04-Density-and-Contour-Plots.ipynb)
 
 
+### Topic 5: Histograms, Binnings, and Density
+
+**Colab Notebook**: [Histograms, Binnings, and Density](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.05-Histograms-and-Binnings.ipynb)
+
+### Topic 6: Customizing Plot Legends
+
+**Colab Notebook**: [Customizing Plot Legends](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.06-Customizing-Legends.ipynb)
+
+### Topic 7: Multiple Subplots
+
+**Colab Notebook**: [Multiple Subplots](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.08-Multiple-Subplots.ipynb)
+
 
 
