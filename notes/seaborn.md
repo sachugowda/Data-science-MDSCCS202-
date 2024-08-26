@@ -69,7 +69,7 @@ Useful for plotting rectangular data as a color-encoded matrix.
 ```python
 # Using the flights dataset which is a pivot table
 flights = sns.load_dataset("flights")
-flights = flights.pivot("month", "year", "passengers")
+flights = flights.pivot(index="month", columns="year", values="passengers")
 
 # Create the heatmap
 sns.heatmap(flights, annot=True, fmt="d", linewidths=.5)
