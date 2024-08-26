@@ -49,6 +49,8 @@ By the end of this module, you will be able to:
 
 **Colab Notebook**: [Seaborn](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.14-Visualization-With-Seaborn.ipynb)
 
+**Basics Plots**: [Seaborn](https://github.com/shaadclt/Seaborn-Exercises/blob/main/Seaborn%20Exercises.ipynb)
+
 ### Topic 9: Matplotlib vs Seaborn
 
 **Video**: [Matplotlib vs Seaborn](https://www.youtube.com/watch?v=J4rD_we9VMc)
