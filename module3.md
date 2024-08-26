@@ -45,5 +45,10 @@ By the end of this module, you will be able to:
 
 **Colab Notebook**: [Multiple Subplots](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.08-Multiple-Subplots.ipynb)
 
+### Topic 8: Visualization with Seaborn,Exploring Seaborn Plots
+
+**Colab Notebook**: [Seaborn](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.14-Visualization-With-Seaborn.ipynb)
+
+
 
 
