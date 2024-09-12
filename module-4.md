@@ -9,6 +9,7 @@ By the end of this module, you will be able to:
 - Understand the core categories of Machine Learning and recognize examples of each.
 - Get introduced to Scikit-Learn and explore its wide range of tools for building ML models.
 - Implement basic ML algorithms using Scikit-Learn.
+- Utilize Naive Bayes classifiers for classification tasks.
 - Integrate ML models into your data analysis and prediction workflows.
 
 ## Topics Covered
@@ -18,5 +19,9 @@ By the end of this module, you will be able to:
 
 ### Topic 2: Introduction to Scikit-Learn
 - **Colab Notebook:** [Introduction to Scikit-Learn](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.02-Introducing-Scikit-Learn.ipynb#scrollTo=knRQcFQIP7un)
-- **Github Project:** [Scikit-Learn - Complete Tutorial](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-scikit-learn.ipynb)
 
+### Topic 3: Naive Bayes Classifiers
+- **Article:** [Naive Bayes Classifiers](https://www.geeksforgeeks.org/naive-bayes-classifiers/)
+
+### Topic 4: Multinomial Naive Bayes
+- **Article:** [Multinomial Naive Bayes](https://www.geeksforgeeks.org/multinomial-naive-bayes/)
